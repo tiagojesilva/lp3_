@@ -1,0 +1,14 @@
+<dependencies>
+    <!-- MongoDB Java Driver -->
+    <dependency>
+        <groupId>org.mongodb</groupId>
+        <artifactId>mongodb-driver-sync</artifactId>
+        <version>4.7.1</version>
+    </dependency>
+    <!-- GSON para conversão de objetos -->
+    <dependency>
+        <groupId>com.google.code.gson</groupId>
+        <artifactId>gson</artifactId>
+        <version>2.8.9</version>
+    </dependency>
+</dependencies>
